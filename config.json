@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsave",
+        "uuid": 613536,
+        "checksum": "sz4540u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
